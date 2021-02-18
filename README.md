@@ -28,9 +28,12 @@ I use Twitter as my main account for game development related stuff, so I would 
 
 [**Raffa on Twitter**](https://www.twitter.com/MV_Raffa)
 
+
+
 I would also like to welcome you on my community server! 💬
 
 [**Bottomless Discord Server**](https://discord.com/invite/JU3y5WkQ4g)
+
 
 
 **I will praise the dark lord ☕ every day and gladly accept** [your offerings to the shrine!](https://www.buymeacoffee.com/raffa)**
