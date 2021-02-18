@@ -1,4 +1,4 @@
-# Example Project for SmartShape2D
+# Example Scene for SmartShape2D
 
 This is an example Scene made inside the [Godot Game Engine](https://godotengine.org/) using the [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D/) plugin
 
@@ -34,6 +34,7 @@ I would also like to welcome you on my community server! 💬
 
 
 **I will praise the dark lord ☕ every day and gladly accept** [your offerings to the shrine!](https://www.buymeacoffee.com/raffa)**
+
 <a href="https://www.buymeacoffee.com/raffa">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="left" height="48">
 </a>
