@@ -2,7 +2,7 @@
 
 This is an example Scene made inside the [Godot Game Engine](https://godotengine.org/) using the [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D/) plugin
 
-![overview](https://github.com/RPicster/Godot-particle-and-vfx-textures/blob/main/textures/overview.jpg "Project Preview")
+![overview](https://github.com/RPicster/Godot-SmartShape2D-Example/blob/main/work/animation.gif "Project Preview")
 
 The assets that I created for this example are supplied as original files in the .aseprite format.
 They are included in the License used for this Repository, so use them for whatever you like - If you do, I would really appreciate crediting me (see below)
@@ -33,7 +33,7 @@ I would also like to welcome you on my community server! 💬
 [**Bottomless Discord Server**](https://discord.com/invite/JU3y5WkQ4g)
 
 
-**I will praise the dark lord ☕ every day and gladly accept** [your offerings to the shrine!D](https://www.buymeacoffee.com/raffa) :)**
+**I will praise the dark lord ☕ every day and gladly accept** [your offerings to the shrine!](https://www.buymeacoffee.com/raffa)**
 <a href="https://www.buymeacoffee.com/raffa">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="left" height="48">
 </a>
